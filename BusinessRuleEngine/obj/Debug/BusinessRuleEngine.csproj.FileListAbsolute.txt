@@ -1,0 +1,6 @@
+E:\Projects\DOTNETFRSMWORK\BusinessRuleEngineTest\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.csproj.CoreCompileInputs.cache
+E:\Projects\DOTNETFRSMWORK\BusinessRuleEngineTest\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.dll
+E:\Projects\DOTNETFRSMWORK\BusinessRuleEngineTest\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.pdb
+E:\Projects\DOTNETFRSMWORK\BusinessRuleEngineTest\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.dll
+E:\Projects\DOTNETFRSMWORK\BusinessRuleEngineTest\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.pdb
+E:\Projects\DOTNETFRSMWORK\BusinessRuleEngineTest\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.csprojAssemblyReference.cache
